@@ -1,4 +1,0 @@
-
-
-
-GLuint create_
