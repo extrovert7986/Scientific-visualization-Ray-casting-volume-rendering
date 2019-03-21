@@ -7,7 +7,6 @@ This program use ray casting method.(Look shader)
 #Scientific visualization
 
 #OpenGL
-
 #C/C++
 
 demo video:
